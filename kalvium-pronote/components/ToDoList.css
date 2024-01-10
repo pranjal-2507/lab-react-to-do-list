@@ -1,0 +1,15 @@
+.btns{
+    display: flex;
+    justify-content: space-around;
+}
+.addTodo{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.input{
+    width: 250px;
+    margin-right: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
